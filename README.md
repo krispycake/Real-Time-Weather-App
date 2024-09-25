@@ -2,7 +2,7 @@
 
 A user-friendly real-time weather application built with HTML,CSS and JavaScript utilizes APIs for fetching weather and geolocation information.
 
-
+![image alt](https://github.com/krispycake/Real-Time-Weather-App/blob/master/image.png)
 
 # Tools and Technologies
 - **HTML 5**
